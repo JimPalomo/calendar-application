@@ -1,4 +1,4 @@
-# calendar-application
+# calendar-application (temporary name)
 Creating a Google Calendar Application using the Google Calendar API
 
 ## Reference Pages 
@@ -10,7 +10,7 @@ Creating a Google Calendar Application using the Google Calendar API
 - Google Authentication:    pip install google-auth-oauthlib
 - Google API Client:        install google-api-python-client
 
-# TODO:
+## TODO:
 1. Authenticate Google Calendar via https://developers.google.com/calendar/auth
 2. Get permissions using authentication user token
 3. Access calendar events
